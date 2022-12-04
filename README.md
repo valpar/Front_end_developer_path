@@ -8,17 +8,19 @@
 - 8 Must Know JavaScript Array Methods https://www.youtube.com/watch?v=R8rmfD9Y5-c
 - JavaScript Higher Order Functions & Arrays https://www.youtube.com/watch?v=rRgD1yVwIvE
 - Async JS Crash Course - Callbacks, Promises, Async Await https://www.youtube.com/watch?v=PoRJizFvM7s&t=1s
+- Repository for the project - https://github.com/valpar/Netflix_landing_page_clone
+- Netflix landing page clone with html, css and javascript - https://youtu.be/P7t13SGytRk?t=22
 
 ---
 
 # Next up
 
-https://www.youtube.com/watch?v=Oive66jrwBs - Fetch API Introduction
+Decided to go more in depth with javascript and invested into this course- https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648285#overview
 
 ---
 
 # Future plans
 
-- React JS Crash Course for school project https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=2s
-- Repository for the project - https://github.com/valpar/Netflix_landing_page_clone
-- Netflix landing page clone with html, css and javascript - https://youtu.be/P7t13SGytRk?t=22
+After learning javascript basics - https://www.udemy.com/course/react-the-complete-guide-incl-redux/#overview
+
+Trying to build some smaller beginner projects myself, firstly with javscript then with React framework.
